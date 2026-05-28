@@ -71,4 +71,4 @@ if __name__ == "__main__":
     # Δοκιμή 3: Ανθεκτική κατάσταση (Δεν θα καταναλώσει ενέργεια/καλώδια)
     compiler.process_word_state("ΑΝΔΡΕΑΣ")
     # quantum_vocalative.py
-quantum_vocalative.py.
+#quantum_vocalative.py.
